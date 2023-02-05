@@ -7,7 +7,7 @@ Clicking the "Add Food" button will then add their respective inputs into the fo
 As a lover of fitness and programming I wanted to challenge myself with a language and programming style I've never done before. So I combined my passions to create a simple
 fitness related app. As I hope to pursue some form of app development in my professional career this was a good first venture into programming with Kotlin.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ojO1GqWPIu8)
 
 # Development Environment
 
